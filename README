@@ -1,0 +1,46 @@
+# Hi, I'm Fabio Cuccaro 👋
+
+🎓 MSc in Automation and Robotics Engineering (University of Naples Federico II)  
+🔬 Research Intern at Tohoku University (Hirata Lab, Smart Robot Design)  
+🤖 Passionate about **social robotics, autonomous systems, and control engineering**
+
+---
+
+## 📄 Resume
+You can find my updated CV here:  
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue?logo=adobeacrobatreader)](./Cuccaro_Fabio_Resume.pdf)
+
+---
+
+## 📚 Master Thesis
+**Design and Experimental Evaluation of a ROS-Based Social Robot for Multimodal Mood and Health Monitoring in Office Environments**  
+Developed at **Tohoku University, Japan (Hirata Lab)** and **University of Naples Federico II**.  
+
+[![Thesis](https://img.shields.io/badge/Thesis-PDF-red?logo=bookstack)](./Tesi_Magistrale.pdf)
+
+Key highlights:
+- Built **SUNNY**, a ROS-based social robot for mood & health monitoring in office environments.
+- Implemented **multimodal sensing** (FER, SER, thermal camera, mmWave radar).
+- Developed **fusion strategies** and **interaction management** with GPT-based dialogue.
+- Conducted **HRI experiments** and statistical evaluation of mood changes.
+
+---
+
+## 🛠 Skills
+- **Programming & Robotics**: ROS (Noetic), C++, Python, OpenCV, TensorFlow, PyTorch, Matlab/Simulink  
+- **Control & Systems**: Nonlinear Control, Optimal Control, Impedance Control, Model-based Design  
+- **Other Tools**: Git, LaTeX (Overleaf), Linux, Catia  
+
+---
+
+## 🌍 Languages
+- Italian (native) 🇮🇹  
+- English (C1) 🇬🇧  
+- Japanese (basic, studied at Tohoku University) 🇯🇵  
+
+---
+
+## 🔗 Links
+- [GitHub](https://github.com/FabAlert)  
+- [LinkedIn](https://www.linkedin.com/in/fabio-cuccaro-328a6bb5)  
+- 📧 fabio@cuccaro.eu  
